@@ -1,0 +1,46 @@
+/*also hello this is my comment for css*/
+
+.page{
+	width:2000px;
+	margin: 0 auto 0 auto;
+	background: rgb(255, 255, 255);
+}
+.header{
+    clear: both;
+    margin: 0;
+    height: 100px;
+    width: 100%;
+    background: gainsboro;
+
+}
+.footer{
+	clear: both;
+	margin: 0;
+	background: gainsboro;
+	width: 100%;
+	height: 50px;
+
+}
+.menu{
+    clear: left;
+    width: 50px;
+    margin: 0;
+    background: gray;
+    float: left;
+	height: 500px;
+}
+.content{
+	clear: right;
+	width: 100%;
+    height: 100%;
+	margin: 0;
+	background: rgb(213, 245, 255);
+
+}
+
+.coral-pixels-regular {
+	font-family: "Coral Pixels", serif;
+	font-weight: 400;
+	font-style: normal;
+  }
+  
